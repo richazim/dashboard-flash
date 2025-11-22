@@ -1,4 +1,4 @@
 
 # ADMIN DASHBOARD - FLASH
 
-<video src='./screenshots/output.mov' width=380 controls/>
+<video src='./screenshots/resume.mp4' width=380 controls/>
